@@ -1,0 +1,46 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background-color: #a7befc;
+}
+
+h1 {
+  text-align: center;
+  padding: 20px;
+  color: white;
+}
+
+p {
+  text-align: center;
+  color: white;
+  
+}
+
+canvas {
+  margin: auto;
+  display: block;
+  padding: 20px;
+  border-style: inset;
+  border-color: white;
+}
+
+button {
+  margin: auto;
+  display: block;
+  padding: 5px;
+  color: #fffbd4;
+  background-color:#969efa ;
+  border-style: outset;
+  border-color: white;
+  cursor: pointer;
+}
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
